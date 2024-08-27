@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathameshbhor123
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning B.E IT
+- 🌱 I’m graduate B.E IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
